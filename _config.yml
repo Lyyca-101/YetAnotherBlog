@@ -7,7 +7,7 @@ title: LyycaBlog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Lyyca-101
 language:
 - zh-CN
 - en
@@ -91,14 +91,14 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include: source/
+include: source
 exclude:
 ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: "landscape"
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
