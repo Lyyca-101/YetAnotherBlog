@@ -4,7 +4,7 @@
 
 # Site
 title: LyycaBlog
-subtitle: ''
+subtitle: "見つけいた景色、たずさえて<br>寻觅到的风景，携手同行"
 description: ''
 keywords:
 author: Lyyca-101
@@ -91,14 +91,14 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include: source
+include:
 exclude:
 ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: my-landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
